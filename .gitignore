@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+runs
+saved_images
+list_attr_celeb.txt
+unet_model.pth
+vae_model.pth
+vae_model2.pth
